@@ -1,4 +1,4 @@
-A simple a# FinRAG
+# FinRAG
 
 FinRAG is a simple question-answering telegram bot that uses retrieved context to generate concise answers. It leverages language models and embeddings to provide accurate responses based on the given context.
 The learning material has been extracted from the [Mofid Learning](https://learning.emofid.com/).
