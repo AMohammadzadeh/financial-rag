@@ -1,0 +1,17 @@
+
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.idea/
+
+.venv
+
+.env
+/finrag/db-openai/
+/finrag/db/
+/finrag/bot_session.session
+/finrag/models/
+*.session
